@@ -1,4 +1,4 @@
-## convert-db-to-csv [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Convert%20your%20database%20to%20csv:%20&url=https://github.com/darrentu/convert-db-to-csv&hashtags=csv,database,sqlite)
+## convert-db-to-csv &nbsp; &nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Convert%20your%20database%20to%20csv:%20&url=https://github.com/darrentu/convert-db-to-csv&hashtags=csv,database,sqlite)
 
 convert-db-to-csv.sh is a shell script that uses SQLite3 to convert a .db file into .csv files. It converts each of the tables in the database into csv files. 
 
